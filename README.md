@@ -2,7 +2,7 @@
 Custom made gas mask script for FiveM servers, built for qbx_core. ox_inventory and ox_lib dependency.
 
 # Preview:
-[![YouTube](http://i.ytimg.com/vi/rCt9DatF63I/hqdefault.jpg)](https://www.youtube.com/watch?v=rCt9DatF63I)
+[![YouTube](http://i.ytimg.com/vi/S3shtcad96U/hqdefault.jpg)](https://www.youtube.com/watch?v=S3shtcad96U)
 
 # Dependencies:
 Ensure that you have all required dependencies to use this resource. I may include support for other dependencies on request. Just send me a message on discord at: sprigo_1

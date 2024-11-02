@@ -4,7 +4,7 @@ lua54 'yes'
 
 author 'Springo'
 title 'springo-gasmask'
-description 'Gas mask item made custom for Optic Networks | springo_1
+description 'Gas mask item so you do not take damage in gas | springo_1'
 version '1.0.0'
 
 shared_scripts {

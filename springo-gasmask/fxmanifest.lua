@@ -9,7 +9,6 @@ version '1.0.0'
 
 shared_scripts {
     '@ox_lib/init.lua',
-    '@on_lib/init.lua',
     '@qbx_core/modules/playerdata.lua',
     'config.lua',
 }
